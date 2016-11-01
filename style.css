@@ -199,7 +199,7 @@ a,button{outline: none!important;} /* Prevent ugly blue glow on chrome and safar
 /* Bloc text custom styling */
 
 #bloc-1 h1{
-	font-size: 91px;
+	font-size: 77px;
 }
 #bloc-1 h3{
 	font-size: 50px;
@@ -353,6 +353,10 @@ button{
 
 .btn-rd{
 	border-radius: 40px;
+}
+.btn-xl{
+	padding: 16px 40px;
+	font-size: 28px;
 }
 .btn .caret{
 	margin:0 0 0 5px}.dropdown a .caret{
